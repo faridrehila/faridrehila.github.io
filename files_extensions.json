@@ -1,0 +1,10 @@
+[
+  {
+    "photos": ".jpg,.jpeg,.png,.gif,.bmp",
+    "videos": ".mp4,.mov,.m4v,.avi,.qt,.wmv,.webm,.ogg,.3gp,.g64x,.asf,.flv,.swf,.mkv,.ts,.mpg,.mpeg,.vob",
+    "audios": ".mp3,.wav,.aac,.m4a,.dss,.ds2,.wma",
+    "noteExtensions": ".txt",
+    "documentExtensions": ".csv,.pdf,.doc,.xls,.ppt,.docx,.xlsx,.pptx,.tif,.tiff",
+    "miscExtensions": ".zip,.iso,.7z"
+  }
+]
